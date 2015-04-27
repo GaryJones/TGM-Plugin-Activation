@@ -8,7 +8,7 @@
  * or theme author for support.
  *
  * @package   TGM-Plugin-Activation
- * @version   2.5.0-alpha
+ * @version   2.5.0-dev
  * @link      http://tgmpluginactivation.com/
  * @author    Thomas Griffin
  * @author    Gary Jones
